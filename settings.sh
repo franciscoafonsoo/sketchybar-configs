@@ -2,7 +2,8 @@
 
 source "$CONFIG_DIR/colors.sh" # Loads all defined colors
 
-FONT="Hack Nerd Font" # Nerd font is preferred
+# FONT="Hack Nerd Font" # Nerd font is preferred
+FONT="JetBrains Mono Nerd Font"
 PADDINGS=0                     # All paddings use this value (icon, label, background)
 
 THEME="dark" # light|dark

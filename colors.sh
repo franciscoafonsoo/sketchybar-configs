@@ -7,13 +7,24 @@ export WHITE=0xffffffff
 
 export TRANSPARENT=0x00000000
 
-# -- Transparent Scheme --
+# -- Miasma/Omarchy Theme --
+# export CORNER_RADIUS=8
+# export BAR_COLOR=0xe6232136
+# export ITEM_BG_COLOR=0xff232136
+# export ACCENT_COLOR=0xffd7c483
+# export BORDER_COLOR=0xff78824b
+# export BACKGROUND=0xff232136
+# export FOREGROUND=0xffb8b5b1
+# export SHADOW_COLOR=0xcc000000
+
+# -- Old Transparent Scheme --
 export CORNER_RADIUS=11
 export BAR_COLOR=0x00000000
 # export BAR_COLOR=0xffe2e2e3
 export ITEM_BG_COLOR=0xff353c3f
 export ACCENT_COLOR=0xffffffff
 export BACKGROUND=0xff232136
+export BORDER_COLOR=0x00ffffff
 
 # -- Gruv Box --
 # export CORNER_RADIUS=8

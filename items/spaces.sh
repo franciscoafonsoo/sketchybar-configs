@@ -2,7 +2,7 @@
 
 sketchybar --add item aerospace_mode left \
   --subscribe aerospace_mode aerospace_mode_change \
-  --set aerospace_mode icon="" \
+  --set aerospace_mode icon="" \
   script="$CONFIG_DIR/plugins/aerospace_mode.sh" \
   icon.color="$ACCENT_COLOR" \
   icon.padding_left=4 \
@@ -43,4 +43,3 @@ sketchybar --add item space_separator left \
   icon.padding_right=7 \
   label.drawing=off \
   background.drawing=off
-
