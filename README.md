@@ -2,15 +2,13 @@
 
 My personal [sketchybar](https://github.com/FelixKratz/SketchyBar) setup for macOS. Transparent floating bar with [AeroSpace](https://github.com/nikitabobko/AeroSpace) workspace indicators and a Things3 Pomodoro widget.
 
-![bar layout: spaces | things3 todo ····················· calendar · volume · battery · docker]
-
 ---
 
 ## Layout
 
 ```
-[mode] [ws1] [ws2] … [ws n] | [things3 todo]        [date/time] [vol] [bat] [docker]
-←————————————————— left ——————————————————        ——————————————— right ————————————→
+[mode] [ws1] [ws2] … [ws n] | [things3 todo]        [docker] [bat] [vol] [date/time]
+←————————————————— left ————————————————————        ——————————————— right ——————————→
 ```
 
 ### Left side
